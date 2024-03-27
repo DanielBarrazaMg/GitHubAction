@@ -50,4 +50,5 @@ jobs:
           acrPassword: edLefK18QzoQAsIHHwNB5JxOGjvCIiqdEmpsye/Nlt+ACRDEBWwD
           containerAppName: aca-api-githubdbarraza
           imageToBuild: acrgithubdbarraza.azurecr.io/poc-ai-api:latest
+          resourceGroup: RgGitHubAction
 
