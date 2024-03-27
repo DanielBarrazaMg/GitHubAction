@@ -45,9 +45,9 @@ jobs:
         with: 
           appSourcePath: ${{ github.workspace }}/Backend
           dockerfilePath: Backend.Functions/Dockerfile
-          acrName: acrgithubdbarrazacontainerAp
+          acrName: acrgithubdbarraza
           acrUsername: acrgithubdbarraza
           acrPassword: edLefK18QzoQAsIHHwNB5JxOGjvCIiqdEmpsye/Nlt+ACRDEBWwD
           containerAppName: aca-api-githubdbarraza
-          imageToBuild: acrgithubdbarrazacontainerAp.azurecr.io/poc-ai-api:latest
+          imageToBuild: acrgithubdbarraza.azurecr.io/poc-ai-api:latest
 
