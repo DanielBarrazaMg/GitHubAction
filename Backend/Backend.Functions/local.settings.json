@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AppConfiguration": "Endpoint=https://app-ai-forms-validation-eastus-test.azconfig.io;Id=ShVY;Secret=zB8HxMvFCsbUjYOfBg6EVP3yJLxMNvfNNt+Wf1J1XDI=",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    //"StorageConnectionString": "UseDevelopmentStorage=true",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=saaiformsvalidationtest;AccountKey=aSocbi+kPdJeZZVrRszysxXtSPACVWb4sln6vuH9bo5RrZ9jMcACwTYBMaifnqbRdOJ3ppluZDIy+ASt6s1iPw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ClientId": "e0f4a3d1-dbd0-4960-b7e6-da0b71c56898",
+    "ClientSecret": "OeL8Q~yuStwxGOn0vmd5xI9MWEynKy4vwkoW_caV",
+    "DirectoryId": "b16113f4-badb-4818-8503-0c7268d06833"
+  }
+}
